@@ -72,3 +72,30 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# .gitignore
+*.jks
+
+# Node.js dependencies
+/node_modules
+/npm-debug.log
+/yarn-error.log
+/build
+/ios/Pods
+
+# Android
+/android/app/build
+/android/.gradle
+/android/app/my-release-key.jks
+
+# React Native
+/expo
+.DS_Store
+
+# macOS
+*.DS_Store
+
+# IDE
+.idea
+.vscode
+
