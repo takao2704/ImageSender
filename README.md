@@ -95,19 +95,23 @@ cd android
 
 ## Usage
 1. Launch the app and enter your authentication information to sign in.
+
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
 2. Upon successful authentication, proceed to the image selection screen.
+
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 
 3. Press the Select Image button to choose an image from the camera or photo library.
+
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 
 4. Enter the file path for the upload destination and press the Upload Image button to upload the image.
+
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 ![alt text](image-10.png)
